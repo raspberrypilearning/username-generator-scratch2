@@ -1,48 +1,65 @@
+--- no-print ---
+
+This is the **Scratch 2** version of the project. There is also a [Scratch 3 version of the project](https://projects.raspberrypi.org/en/projects/username-generator).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
+It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+
+To try out the finished project:
+
++ Click the girl sprite to generate a new username
++ Click the <span style="color: green;">✔</span> to add a username you like to the list
++ Right-click on the list to save your usernames to a file
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/138858379/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/usernames-final.png">
 </div>
+
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+![complete project](images/usernames-final.png)
+
 --- /print-only ---
 
 --- collapse ---
+
 ---
 title: What you will need
 ---
+
 ### Hardware
 
-+ Describe hardware here
++ A computer capable of running Scratch
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ Scratch 2.0 [offline](http://rpf.io/scratchoff){:target="_blank"}
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+The starter project can be found [here](http://rpf.io/p/en/username-generator-scratch2-go){:target="_blank"}.
 
 --- /collapse ---
 
 --- collapse ---
+
 ---
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
+- Use lists in Scratch
+- Use the paint tool to create images
+- How to exporting text files and images from Scratch
 
 --- /collapse ---
 
@@ -51,8 +68,14 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+--- no-print ---
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/username-generator-scratch2/print){:target="_blank"}.
+
+--- /no-print ---
+
+You can [find the solution for this project here](http://rpf.io/p/en/username-generator-scratch2-get){:target="_blank"}.
 
 --- /collapse ---
+
+
