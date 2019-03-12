@@ -16,7 +16,6 @@ To try out the finished project:
 
 + Click the girl sprite to generate a new username
 + Click the <span style="color: green;">✔</span> to add a username you like to the list
-+ Right-click on the list to save your usernames to a file
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/138858379/?autostart=false" frameborder="0" scrolling="no"></iframe>
