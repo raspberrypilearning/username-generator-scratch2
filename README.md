@@ -1,6 +1,6 @@
-# username-generator-scratch2
+# username-generator
 
-![username-generator-scratch2](banner.png)
+![username-generator](/en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/username-generator-scratch2](https://projects.raspberrypi.org/en/projects/username-generator-scratch2)
 

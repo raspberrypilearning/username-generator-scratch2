@@ -1,0 +1,25 @@
+---
+hero_image: images/banner.png
+theme: green
+duration: 2
+listed: false
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Creu Enw Defnyddiwr
+description: "Cynhyrcha enwau defnyddiwr gwych i'w defnyddio arlein"
+original_url: https://codeclubprojects.org/en-GB/scratch/username-generator
+interests: cybersecurity-and-cryptography
+technologies: scratch
+site_areas: projects
+hardware: ''
+software: scratch
+version: 3
+last_tested: 2017-01-01
+steps: 
+- title: Cyflwyniad
+- title: Cynhyrchu Enwau Defnyddiwr
+- title: "Her: Ychwanegu mwy o amrywiaeth"
+- title: Arbed dy hoff Enw Defnyddiwr
+- title: "Her: Ychwanegu rhif"
+- title: "Her: Creu dy lun proffil"
